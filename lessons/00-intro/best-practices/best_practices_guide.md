@@ -78,6 +78,8 @@ channels:
   - conda-forge
 dependencies:
   - pandas=1.1.0
+  - pip:
+    - mlflow==1.1.0
 ```
 
 ### Setting up a virtual environment
